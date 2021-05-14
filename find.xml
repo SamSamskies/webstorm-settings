@@ -11,5 +11,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*messages*</mask>
     <mask>*slice*</mask>
+    <mask>!*.svg*</mask>
   </component>
 </application>
