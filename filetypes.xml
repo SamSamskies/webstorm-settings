@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern=".prettierignore" type="GitIgnore file" />
+      <mapping pattern=".env.development.local" type="PLAIN_TEXT" />
       <mapping ext="key" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
