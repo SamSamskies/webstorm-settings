@@ -7,8 +7,9 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <mask>*messages*</mask>
+    <option name="FILE_MASK" value="*messages*" />
     <mask>*slice*</mask>
     <mask>!*.svg*</mask>
+    <mask>*messages*</mask>
   </component>
 </application>
