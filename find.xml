@@ -10,5 +10,6 @@
     <mask>*slice*</mask>
     <mask>!*.svg*</mask>
     <mask>*messages*</mask>
+    <mask>!*test*</mask>
   </component>
 </application>
