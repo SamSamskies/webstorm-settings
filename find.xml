@@ -7,9 +7,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="constants.js" />
     <mask>*slice*</mask>
     <mask>!*.svg*</mask>
     <mask>*messages*</mask>
     <mask>!*test*</mask>
+    <mask>constants.js</mask>
   </component>
 </application>
