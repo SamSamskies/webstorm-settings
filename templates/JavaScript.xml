@@ -11,7 +11,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="rfsc" value="import React from 'react'&#10;import PropTypes from 'prop-types'&#10;&#10;const $VAR$ = () =&gt; (&#10;&#10;)&#10;&#10;$VAR$.propTypes = {&#10;}&#10;&#10;export default $VAR$" description="React functional stateless component" toReformat="false" toShortenFQNames="true">
+  <template name="rfsc" value="import type { FC } from 'react'&#10;&#10;interface $VAR$Props {&#10;&#10;}&#10;&#10;export const $VAR$: FC&lt;$VAR$Props&gt; = () =&gt; (&#10;&#10;)" description="React functional stateless component" toReformat="false" toShortenFQNames="true">
     <variable name="VAR" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
