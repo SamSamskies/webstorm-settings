@@ -9,6 +9,7 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*slice*</mask>
     <mask>!*.svg*</mask>
     <mask>*messages*</mask>
@@ -26,9 +27,9 @@
     <mask>*.sht</mask>
     <mask>*.html</mask>
     <mask>*.ats</mask>
-    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
     <mask>*.tsx</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
