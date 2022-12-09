@@ -1,35 +1,18 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="localCaseSensitive" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*slice*</mask>
-    <mask>!*.svg*</mask>
-    <mask>*messages*</mask>
-    <mask>!*test*</mask>
-    <mask>constants.js</mask>
-    <mask>messages.js</mask>
-    <mask>*.test*</mask>
-    <mask>*test*</mask>
     <mask>*.xml</mask>
     <mask>*.css</mask>
-    <mask>*.shtml</mask>
-    <mask>*.shtm</mask>
-    <mask>*.ng</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
+    <mask>*.shtm</mask>
+    <mask>*.ng</mask>
+    <mask>*.shtml</mask>
     <mask>*.html</mask>
+    <mask>*.mts</mask>
     <mask>*.ats</mask>
+    <mask>*.cts</mask>
+    <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.ts</mask>
-    <mask>*.tsx</mask>
-    <mask>*fixture*</mask>
-    <mask>*spec*</mask>
-    <mask>*local*</mask>
   </component>
 </application>
