@@ -5,13 +5,10 @@
       <option name="TAB_SIZE" value="2" />
     </value>
   </option>
-  <JSCodeStyleSettings>
+  <JSCodeStyleSettings version="0">
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
   </JSCodeStyleSettings>
-  <XML>
-    <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-  </XML>
   <editorconfig>
     <option name="ENABLED" value="false" />
   </editorconfig>
