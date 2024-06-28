@@ -11,5 +11,6 @@
     <entry key="dumb.aware.run.configurations" value="true" />
     <entry key="ide.experimental.ui.inter.font" value="false" />
     <entry key="idea.plugins.compatible.build" value="" />
+    <entry key="eslint.additional.file.extensions" value="svelte" />
   </component>
 </application>
